@@ -1,6 +1,6 @@
 {
-  "name": "Node API example",
+  "name": "Node API example - By PluralSight Course",
   "description": "A simple API built in Node and Express hosted on Heroku",
-  "repository": "https://github.com/coryhouse/js-dev-env-demo-api",
+  "repository": "https://github.com/MrRende/pluralsight-js-dev-env-demo-api",
   "keywords": ["node", "express", "static"]
 }
